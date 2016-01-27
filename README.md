@@ -10,7 +10,7 @@ $ cordova plugin add https://github.com/Bustanity/cordova-plugin-audiofocus.git
 ```
 
 ### Usage
-```sh
+```js
 window.audioFocus.requestFocus(function() {
     // succeeded to gain focus
 }, function() {
