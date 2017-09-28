@@ -1,0 +1,19 @@
+{
+  "name": "cordova-plugin-audiofocus",
+  "version": "1.0.0",
+  "description": "AudioFocus is a Cordova plugin for Android platform that allows requesting of audio focus. > Android uses audio focus to moderate audio playback—only apps that hold the audio focus should play audio.",
+  "main": "www/AudioFocus.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atanaschristov/cordova-plugin-audiofocus.git"
+  },
+  "author": "",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/atanaschristov/cordova-plugin-audiofocus/issues"
+  },
+  "homepage": "https://github.com/atanaschristov/cordova-plugin-audiofocus#readme"
+}
