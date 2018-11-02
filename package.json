@@ -1,0 +1,15 @@
+{
+  "name": "cordova-plugin-audiofocus",
+  "version": "1.0.0",
+  "description": "Cordova Audio Focus Plugin",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bustanity/cordova-plugin-audiofocus.git"
+  },
+  "author": "Teemu Pynnonen <bustanity@gmail.com>",
+  "license": "apache",
+  "bugs": {
+    "url": "https://github.com/Bustanity/cordova-plugin-audiofocus/issues"
+  },
+  "homepage": "https://github.com/Bustanity/cordova-plugin-audiofocus#readme"
+}
